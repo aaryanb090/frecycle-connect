@@ -4,7 +4,7 @@ export const siteConfig = {
   tagline: "Connecting Students Preserving Resources",
   
   nav: [
-    { name: "Buy", href: "#buy", id: "buy" },
+    { name: "Buy", href: "/", id: "buy" },
     { name: "Sell", href: "/sell", id: "sell" },
     { name: "Others", href: "#others", id: "others" }
   ],
