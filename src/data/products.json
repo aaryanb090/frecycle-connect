@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "before": "₹1000",
+    "now": "₹800",
+    "img": "{{IMG_PROD1}}"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "before": "₹3000",
+    "now": "₹2500",
+    "img": "{{IMG_PROD2}}"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "before": "₹1200",
+    "now": "₹500",
+    "img": "{{IMG_PROD3}}"
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "before": "₹10000",
+    "now": "₹6000",
+    "img": "{{IMG_PROD4}}"
+  }
+]

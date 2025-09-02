@@ -1,0 +1,15 @@
+{
+  "social": {
+    "instagram": "{{IG_URL}}",
+    "pinterest": "{{PINTEREST_URL}}",
+    "twitter": "{{TWITTER_URL}}"
+  },
+  "contact": {
+    "email": "placeholder@email.com",
+    "phone": "{{PHONE_NUMBER}}"
+  },
+  "qrCodes": {
+    "feedback": "{{QR_FEEDBACK_URL}}",
+    "instagram": "{{QR_IG_URL}}"
+  }
+}

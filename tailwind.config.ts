@@ -18,7 +18,18 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				'poppins': ['Poppins', 'sans-serif'],
+				'inter': ['Inter', 'sans-serif'],
+			},
 			colors: {
+				// Brand Colors
+				brand: {
+					green: 'hsl(var(--brand-green))',
+					dark: 'hsl(var(--brand-dark))',
+					white: 'hsl(var(--brand-white))',
+				},
+				// Design System Colors
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
@@ -62,6 +73,16 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				}
+			},
+			backgroundImage: {
+				'hero-gradient': 'var(--hero-bg)',
+			},
+			boxShadow: {
+				'soft': 'var(--shadow-soft)',
+				'hover': 'var(--shadow-hover)',
+			},
+			transitionProperty: {
+				'smooth': 'var(--transition-smooth)',
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
