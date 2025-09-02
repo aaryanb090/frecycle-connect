@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "FREECYCLE",
+  name: "RE-BIN",
   description: "Connecting Students Preserving Resources",
   tagline: "Connecting Students Preserving Resources",
   

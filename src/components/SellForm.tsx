@@ -56,7 +56,7 @@ const SellForm = () => {
               Sell Your Product
             </CardTitle>
             <p className="text-muted-foreground font-inter">
-              Fill out the form below to list your item on FREECYCLE
+              Fill out the form below to list your item on RE-BIN
             </p>
           </CardHeader>
           
